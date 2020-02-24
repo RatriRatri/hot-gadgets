@@ -1,0 +1,62 @@
+body {
+    font-family: 'Poppins';
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.carousel-item {
+    padding: 30px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.buy-now-btn {
+    background: black;
+    color: white;
+    border: 8px;
+    border-radius: 7px;
+    padding: 9px 25px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.price {
+    color: black;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-body h5 {
+    color: black;
+}
+
+.carousel-indicators .active {
+    background-color: orange;
+}
+
+.carousel-indicators li {
+    background-color: gray;
+}
+
+.slider-text {
+    padding: 100px;
+}
