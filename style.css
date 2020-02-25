@@ -60,3 +60,34 @@ h1 {
 .slider-text {
     padding: 100px;
 }
+
+.section-heading {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.section-heading hr {
+    background: linear-gradient(to bottom, #ffcc00, #ff9933);
+    height: 4px;
+    border-radius: 3px;
+}
+
+.cat-icon-box {
+    height: 250px;
+    width: 250px;
+    border-radius: 10px 5px 15px 5px;
+    margin-bottom: 30px;
+}
+
+.cat-icon-box h6 {
+    padding: 10px 0;
+}
+
+.cat-img {
+    height: 100px;
+    width: 100px;
+}
+
+.see-all-link {
+    color: orange;
+}
